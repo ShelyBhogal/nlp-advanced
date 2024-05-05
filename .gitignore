@@ -1,0 +1,9 @@
+# All data files
+data/
+01-Vector-Models-and-Text-Preprocessing/data/GoogleNews-vectors-negative300.bin
+
+# Hidden files and virtual envs
+.DS_Store
+
+# Files over 100MB 
+03-Spam-Detection/
